@@ -262,7 +262,7 @@
 
   /* Book List */
   .book-list {
-    @apply mt-10 flex flex-wrap gap-5 xs:gap-10 xs:justify-between;
+    @apply mt-10 flex flex-wrap justify-between lg:justify-start gap-5 xs:gap-10;
   }
 
   /* Book Overview */
